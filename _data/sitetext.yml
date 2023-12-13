@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to Donau Build!
-    text: It's Nice To Meet You
+    text: We offer quality construction services
     button: Tell Me More
     buttonlink: "#services"
 
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Please feel free to email us at info@donaubuild.com or call 07778 970161, or complete the contact form below"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
